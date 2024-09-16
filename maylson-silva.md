@@ -12,5 +12,5 @@ occupations:
   isFinished: true
 addresses:
   github: https://github.com/Maylson0
-  linkedin: https://br.linkedin.com/in/maylson-silva/
+  linkedin: https://br.linkedin.com/in/maylson-silva-a56a0823a?trk=people-guest_people_search-card
 ---
